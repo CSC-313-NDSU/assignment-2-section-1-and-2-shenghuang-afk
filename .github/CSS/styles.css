@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: coral;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+footer {
+    margin-top: 40px;
+}
